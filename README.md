@@ -2,7 +2,7 @@
 ## Desarrollo
 Java 👨🏼‍💻
 ## Proposito
-Programa para organizar tareas
+Programa para una exposicion canina
 ## Herramientas
 - NetBeans:Entorno de desarrollo integrado.
 - Java: Lenguaje utilizado.
